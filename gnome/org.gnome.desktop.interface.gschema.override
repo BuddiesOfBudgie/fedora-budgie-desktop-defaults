@@ -1,4 +1,4 @@
-[org.gnome.desktop.interface]
+[org.gnome.desktop.interface:Budgie]
 color-scheme='prefer-dark'
 gtk-theme='Materia-dark'
 icon-theme='Papirus'

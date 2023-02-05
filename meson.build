@@ -1,7 +1,7 @@
 project(
   'budgie-desktop-defaults',
   'c',
-  version: '0.2',
+  version: '0.3',
   license: [
     'CC-BY-SA-4.0'
   ],

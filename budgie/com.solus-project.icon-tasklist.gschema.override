@@ -1,2 +1,2 @@
 [com.solus-project.icon-tasklist]
-pinned-launchers=['nemo.desktop', 'firefox.desktop', 'org.gnome.Rhythmbox3.desktop', 'org.xfce.Parole.desktop']
+pinned-launchers=['nemo.desktop', 'firefox.desktop', 'org.gnome.Rhythmbox3.desktop', 'org.gnome.Software.desktop', 'org.xfce.Parole.desktop']
