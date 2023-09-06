@@ -1,7 +1,7 @@
 project(
   'budgie-desktop-defaults',
   'c',
-  version: '0.5',
+  version: '0.5.1',
   license: [
     'CC-BY-SA-4.0'
   ],
@@ -16,7 +16,6 @@ path_schema = join_paths(path_data, 'glib-2.0', 'schemas')
 
 subdir('budgie')
 subdir('gnome')
-subdir('lightdm')
 
 report = [
     '    Build configuration:',
